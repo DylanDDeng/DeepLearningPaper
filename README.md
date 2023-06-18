@@ -7,5 +7,5 @@ This repo shows some classical deep-learning papers I read. :grinning:
 |Going deeper with convolutions|Christian Szegedy,Wei Liu,Yangqing Jia,Pierre Sermanet, Scott Reed,Dragomir Anguelov|[URL](https://arxiv.org/pdf/1409.4842.pdf)|GoogLeNet|
 | Deep Residual Learning for Image Recognition | Kaiming He、Xiangyu Zhang、Shaoqing Ren、 Jian Sun |[URL](https://arxiv.org/pdf/1512.03385.pdf)|ResNet| 
 |MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|Andrew G.Howard，Menglong Zhu Bo，Chen Dmitry Kalenichenko|[URL](https://arxiv.org/pdf/1704.04861.pdf)|MobileNetV1| 
-|Aggregated Residual Transformations for Deep Neural Networks| Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu, Kaiming He| [原文链接](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1611.05431.pdf)|ResNext| 
-|Improving Language Understanding by Generative Pre-Training| Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever|[原文链接](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|GPT-1|
+|Aggregated Residual Transformations for Deep Neural Networks| Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu, Kaiming He| [原文链接](https://arxiv.org/abs/1611.05431)|ResNext| 
+|Improving Language Understanding by Generative Pre-Training| Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever|[原文链接](https://paperswithcode.com/paper/improving-language-understanding-by)|GPT-1|
